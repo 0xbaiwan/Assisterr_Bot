@@ -1,4 +1,4 @@
-# Assisterr Bot (https://github.com/0xbaiwan/Assisterr_Bot)
+# [Assisterr Bot](https://github.com/0xbaiwan/Assisterr_Bot)
 自动为assisterr.ai签到获取每日积分，支持多账户和代理使用
 
 ## 所需工具和组件
