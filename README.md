@@ -12,13 +12,13 @@
 
 ### 购买代理
 - 免费静态住宅代理：
-   - [WebShare](https://www.webshare.io/?referral_code=p7k7whpdu2jg)
-   - [ProxyScrape](https://proxyscrape.com/?ref=odk1mmj)
+   - [WebShare](https://www.webshare.io/?referral_code=gtw7lwqqelgu)
+   - [ProxyScrape](https://proxyscrape.com/)
    - [MonoSans](https://github.com/monosans/proxy-list)
 - 付费高级静态住宅代理：
-   - [922proxy](https://www.922proxy.com/register?inviter_code=d03d4fed)
-   - [Proxy-Cheap](https://app.proxy-cheap.com/r/JysUiH)
-   - [Infatica](https://dashboard.infatica.io/aff.php?aff=544)
+   - [922proxy](https://www.922proxy.com/register?inviter_code=d6416857)
+   - [Proxy-Cheap](https://app.proxy-cheap.com/r/Pd6sqg)
+   - [Infatica](https://dashboard.infatica.io/aff.php?aff=580)
 
 ## 凭证设置
 
