@@ -76,7 +76,13 @@ npm install
 node index.js
 ```
 
-# 注意事项
-- 运行此机器人风险自负，我不对由此机器人造成的任何损失或损害负责
-- 此机器人仅用于教育目的
-- 项目地址：https://github.com/0xbaiwan/Assisterr_Bot
+## 购买代理（可选）
+
+- 免费静态住宅代理：
+   - [WebShare](https://www.webshare.io/?referral_code=gtw7lwqqelgu)
+   - [ProxyScrape](https://proxyscrape.com/)
+   - [MonoSans](https://github.com/monosans/proxy-list)
+- 付费高级静态住宅代理：
+   - [922proxy](https://www.922proxy.com/register?inviter_code=d6416857)
+   - [Proxy-Cheap](https://app.proxy-cheap.com/r/Pd6sqg)
+   - [Infatica](https://dashboard.infatica.io/aff.php?aff=580)
